@@ -1,0 +1,13 @@
+
+eff_xx1.png
+size: 116,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xx1
+  rotate: false
+  xy: 2, 2
+  size: 110, 99
+  orig: 128, 128
+  offset: 9, 13
+  index: -1

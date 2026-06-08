@@ -1,0 +1,377 @@
+
+eff_dl.png
+size: 1988,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 1402, 243
+  size: 21, 145
+  orig: 130, 318
+  offset: 51, 117
+  index: -1
+yanhuab/yanhuab_00000
+  rotate: true
+  xy: 955, 196
+  size: 2, 22
+  orig: 221, 265
+  offset: 110, 97
+  index: -1
+yanhuab/yanhuab_00001
+  rotate: false
+  xy: 192, 132
+  size: 3, 18
+  orig: 221, 265
+  offset: 110, 119
+  index: -1
+yanhuab/yanhuab_00002
+  rotate: false
+  xy: 192, 152
+  size: 39, 42
+  orig: 221, 265
+  offset: 93, 111
+  index: -1
+yanhuab/yanhuab_00004
+  rotate: false
+  xy: 1543, 607
+  size: 73, 75
+  orig: 221, 265
+  offset: 77, 95
+  index: -1
+yanhuab/yanhuab_00006
+  rotate: false
+  xy: 1549, 788
+  size: 100, 102
+  orig: 221, 265
+  offset: 63, 82
+  index: -1
+yanhuab/yanhuab_00008
+  rotate: true
+  xy: 1652, 6
+  size: 121, 127
+  orig: 221, 265
+  offset: 51, 68
+  index: -1
+yanhuab/yanhuab_00010
+  rotate: false
+  xy: 1539, 311
+  size: 143, 145
+  orig: 221, 265
+  offset: 39, 60
+  index: -1
+yanhuab/yanhuab_00012
+  rotate: false
+  xy: 1652, 728
+  size: 163, 162
+  orig: 221, 265
+  offset: 32, 51
+  index: -1
+yanhuab/yanhuab_00014
+  rotate: false
+  xy: 1361, 266
+  size: 176, 178
+  orig: 221, 265
+  offset: 28, 43
+  index: -1
+yanhuab/yanhuab_00016
+  rotate: false
+  xy: 260, 3
+  size: 185, 191
+  orig: 221, 265
+  offset: 24, 36
+  index: -1
+yanhuab/yanhuab_00018
+  rotate: true
+  xy: 634, 4
+  size: 190, 203
+  orig: 221, 265
+  offset: 21, 30
+  index: -1
+yanhuab/yanhuab_00020
+  rotate: true
+  xy: 1044, 5
+  size: 193, 213
+  orig: 221, 265
+  offset: 19, 24
+  index: -1
+yanhuab/yanhuab_00022
+  rotate: false
+  xy: 1195, 669
+  size: 197, 221
+  orig: 221, 265
+  offset: 16, 19
+  index: -1
+yanhuab/yanhuab_00024
+  rotate: false
+  xy: 955, 200
+  size: 201, 227
+  orig: 221, 265
+  offset: 12, 15
+  index: -1
+yanhuab/yanhuab_00026
+  rotate: false
+  xy: 125, 196
+  size: 206, 231
+  orig: 221, 265
+  offset: 10, 12
+  index: -1
+yanhuab/yanhuab_00028
+  rotate: false
+  xy: 541, 196
+  size: 205, 231
+  orig: 221, 265
+  offset: 6, 8
+  index: -1
+yanhuaor/yanhuaor_00000
+  rotate: true
+  xy: 979, 196
+  size: 2, 22
+  orig: 221, 265
+  offset: 110, 97
+  index: -1
+yanhuaor/yanhuaor_00001
+  rotate: false
+  xy: 197, 132
+  size: 3, 18
+  orig: 221, 265
+  offset: 110, 119
+  index: -1
+yanhuaor/yanhuaor_00002
+  rotate: false
+  xy: 1361, 222
+  size: 39, 42
+  orig: 221, 265
+  offset: 93, 111
+  index: -1
+yanhuaor/yanhuaor_00004
+  rotate: true
+  xy: 1893, 556
+  size: 73, 75
+  orig: 221, 265
+  offset: 77, 95
+  index: -1
+yanhuaor/yanhuaor_00006
+  rotate: false
+  xy: 1549, 684
+  size: 100, 102
+  orig: 221, 265
+  offset: 63, 82
+  index: -1
+yanhuaor/yanhuaor_00008
+  rotate: true
+  xy: 1781, 6
+  size: 121, 127
+  orig: 221, 265
+  offset: 51, 68
+  index: -1
+yanhuaor/yanhuaor_00010
+  rotate: false
+  xy: 1673, 460
+  size: 143, 145
+  orig: 221, 265
+  offset: 39, 60
+  index: -1
+yanhuaor/yanhuaor_00012
+  rotate: false
+  xy: 1817, 728
+  size: 163, 162
+  orig: 221, 265
+  offset: 32, 51
+  index: -1
+yanhuaor/yanhuaor_00014
+  rotate: false
+  xy: 1474, 63
+  size: 176, 178
+  orig: 221, 265
+  offset: 28, 43
+  index: -1
+yanhuaor/yanhuaor_00016
+  rotate: false
+  xy: 447, 3
+  size: 185, 191
+  orig: 221, 265
+  offset: 24, 36
+  index: -1
+yanhuaor/yanhuaor_00018
+  rotate: true
+  xy: 839, 4
+  size: 190, 203
+  orig: 221, 265
+  offset: 21, 30
+  index: -1
+yanhuaor/yanhuaor_00020
+  rotate: true
+  xy: 1259, 5
+  size: 193, 213
+  orig: 221, 265
+  offset: 19, 24
+  index: -1
+yanhuaor/yanhuaor_00022
+  rotate: false
+  xy: 1195, 446
+  size: 197, 221
+  orig: 221, 265
+  offset: 16, 19
+  index: -1
+yanhuaor/yanhuaor_00024
+  rotate: false
+  xy: 1158, 200
+  size: 201, 227
+  orig: 221, 265
+  offset: 12, 15
+  index: -1
+yanhuaor/yanhuaor_00026
+  rotate: false
+  xy: 333, 196
+  size: 206, 231
+  orig: 221, 265
+  offset: 10, 12
+  index: -1
+yanhuaor/yanhuaor_00028
+  rotate: false
+  xy: 748, 196
+  size: 205, 231
+  orig: 221, 265
+  offset: 6, 8
+  index: -1
+yanhuayellow/yanhuayellow_00000
+  rotate: true
+  xy: 202, 141
+  size: 3, 31
+  orig: 168, 168
+  offset: 83, 28
+  index: -1
+yanhuayellow/yanhuayellow_00001
+  rotate: true
+  xy: 202, 146
+  size: 4, 32
+  orig: 168, 168
+  offset: 83, 43
+  index: -1
+yanhuayellow/yanhuayellow_00002
+  rotate: false
+  xy: 233, 161
+  size: 24, 33
+  orig: 168, 168
+  offset: 72, 71
+  index: -1
+yanhuayellow/yanhuayellow_00003
+  rotate: true
+  xy: 125, 133
+  size: 61, 65
+  orig: 168, 168
+  offset: 55, 58
+  index: -1
+yanhuayellow/yanhuayellow_00004
+  rotate: false
+  xy: 1893, 631
+  size: 90, 95
+  orig: 168, 168
+  offset: 41, 40
+  index: -1
+yanhuayellow/yanhuayellow_00005
+  rotate: false
+  xy: 1775, 607
+  size: 116, 119
+  orig: 168, 168
+  offset: 29, 28
+  index: -1
+yanhuayellow/yanhuayellow_00006
+  rotate: true
+  xy: 1684, 330
+  size: 128, 131
+  orig: 168, 168
+  offset: 22, 22
+  index: -1
+yanhuayellow/yanhuayellow_00007
+  rotate: false
+  xy: 1816, 129
+  size: 137, 137
+  orig: 168, 168
+  offset: 17, 18
+  index: -1
+yanhuayellow/yanhuayellow_00008
+  rotate: true
+  xy: 1817, 268
+  size: 141, 145
+  orig: 168, 168
+  offset: 15, 14
+  index: -1
+yanhuayellow/yanhuayellow_00009
+  rotate: false
+  xy: 1818, 411
+  size: 145, 143
+  orig: 168, 168
+  offset: 13, 12
+  index: -1
+yanhuayellow/yanhuayellow_00010
+  rotate: false
+  xy: 1394, 606
+  size: 147, 145
+  orig: 168, 168
+  offset: 12, 10
+  index: -1
+yanhuayellow/yanhuayellow_00011
+  rotate: false
+  xy: 1528, 458
+  size: 143, 146
+  orig: 168, 168
+  offset: 12, 9
+  index: -1
+yanhuayellow/yanhuayellow_00012
+  rotate: true
+  xy: 123, 4
+  size: 124, 135
+  orig: 168, 168
+  offset: 21, 20
+  index: -1
+yanhuayellow/yanhuayellow_00013
+  rotate: false
+  xy: 1684, 201
+  size: 130, 127
+  orig: 168, 168
+  offset: 23, 24
+  index: -1
+yanhuayellow/yanhuayellow_00014
+  rotate: false
+  xy: 1394, 457
+  size: 132, 147
+  orig: 168, 168
+  offset: 21, 12
+  index: -1
+yanhuayellow/yanhuayellow_00015
+  rotate: true
+  xy: 1394, 753
+  size: 137, 149
+  orig: 168, 168
+  offset: 24, 5
+  index: -1
+yanhuayellow/yanhuayellow_00016
+  rotate: false
+  xy: 2, 2
+  size: 119, 126
+  orig: 168, 168
+  offset: 23, 20
+  index: -1
+yanhuayellow/yanhuayellow_00017
+  rotate: true
+  xy: 1651, 607
+  size: 119, 122
+  orig: 168, 168
+  offset: 23, 24
+  index: -1
+登录页
+  rotate: true
+  xy: 2, 130
+  size: 297, 121
+  orig: 297, 121
+  offset: 0, 0
+  index: -1
+登录页11
+  rotate: false
+  xy: 2, 429
+  size: 1191, 461
+  orig: 1191, 484
+  offset: 0, 0
+  index: -1

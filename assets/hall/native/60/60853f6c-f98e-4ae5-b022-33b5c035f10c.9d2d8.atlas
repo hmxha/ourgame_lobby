@@ -1,0 +1,279 @@
+
+eff_pig.png
+size: 1428,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: true
+  xy: 1140, 111
+  size: 255, 201
+  orig: 257, 203
+  offset: 1, 1
+  index: -1
+coin2
+  rotate: true
+  xy: 1140, 111
+  size: 255, 201
+  orig: 257, 203
+  offset: 1, 1
+  index: -1
+coin3
+  rotate: true
+  xy: 250, 19
+  size: 256, 201
+  orig: 258, 203
+  offset: 1, 1
+  index: -1
+coins1
+  rotate: false
+  xy: 474, 6
+  size: 113, 57
+  orig: 187, 187
+  offset: 37, 61
+  index: -1
+coins12
+  rotate: false
+  xy: 474, 6
+  size: 113, 57
+  orig: 187, 187
+  offset: 37, 61
+  index: -1
+coins10
+  rotate: false
+  xy: 589, 6
+  size: 113, 57
+  orig: 187, 187
+  offset: 37, 69
+  index: -1
+coins11
+  rotate: true
+  xy: 453, 63
+  size: 114, 19
+  orig: 187, 187
+  offset: 36, 85
+  index: -1
+coins2
+  rotate: true
+  xy: 1343, 204
+  size: 113, 73
+  orig: 187, 187
+  offset: 37, 52
+  index: -1
+coins13
+  rotate: true
+  xy: 1343, 204
+  size: 113, 73
+  orig: 187, 187
+  offset: 37, 52
+  index: -1
+coins3
+  rotate: true
+  xy: 816, 262
+  size: 113, 88
+  orig: 187, 187
+  offset: 37, 45
+  index: -1
+coins14
+  rotate: true
+  xy: 816, 262
+  size: 113, 88
+  orig: 187, 187
+  offset: 37, 45
+  index: -1
+coins4
+  rotate: false
+  xy: 1256, 8
+  size: 113, 101
+  orig: 187, 187
+  offset: 37, 39
+  index: -1
+coins15
+  rotate: false
+  xy: 1256, 8
+  size: 113, 101
+  orig: 187, 187
+  offset: 37, 39
+  index: -1
+coins5
+  rotate: true
+  xy: 1303, 549
+  size: 113, 109
+  orig: 187, 187
+  offset: 37, 37
+  index: -1
+coins16
+  rotate: true
+  xy: 1303, 549
+  size: 113, 109
+  orig: 187, 187
+  offset: 37, 37
+  index: -1
+coins6
+  rotate: false
+  xy: 1303, 664
+  size: 113, 113
+  orig: 187, 187
+  offset: 37, 37
+  index: -1
+coins17
+  rotate: false
+  xy: 1303, 664
+  size: 113, 113
+  orig: 187, 187
+  offset: 37, 37
+  index: -1
+coins7
+  rotate: true
+  xy: 1026, 19
+  size: 113, 110
+  orig: 187, 187
+  offset: 37, 40
+  index: -1
+coins18
+  rotate: true
+  xy: 1026, 19
+  size: 113, 110
+  orig: 187, 187
+  offset: 37, 40
+  index: -1
+coins8
+  rotate: true
+  xy: 1303, 434
+  size: 113, 101
+  orig: 187, 187
+  offset: 37, 47
+  index: -1
+coins19
+  rotate: true
+  xy: 1303, 434
+  size: 113, 101
+  orig: 187, 187
+  offset: 37, 47
+  index: -1
+coins9
+  rotate: true
+  xy: 1343, 319
+  size: 113, 83
+  orig: 187, 187
+  offset: 37, 57
+  index: -1
+coins20
+  rotate: true
+  xy: 1343, 319
+  size: 113, 83
+  orig: 187, 187
+  offset: 37, 57
+  index: -1
+fsg1
+  rotate: false
+  xy: 2, 277
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fsg2
+  rotate: true
+  xy: 902, 13
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+gq
+  rotate: false
+  xy: 2, 29
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guanghuan1
+  rotate: false
+  xy: 906, 134
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 504, 65
+  size: 310, 310
+  orig: 310, 310
+  offset: 0, 0
+  index: -1
+julongguang
+  rotate: false
+  xy: 504, 377
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+low.108
+  rotate: true
+  xy: 453, 179
+  size: 96, 45
+  orig: 98, 47
+  offset: 1, 1
+  index: -1
+low.116
+  rotate: false
+  xy: 1138, 5
+  size: 116, 104
+  orig: 118, 106
+  offset: 1, 1
+  index: -1
+low.121
+  rotate: true
+  xy: 704, 6
+  size: 57, 68
+  orig: 59, 70
+  offset: 1, 1
+  index: -1
+low.123
+  rotate: true
+  xy: 816, 137
+  size: 123, 84
+  orig: 125, 86
+  offset: 1, 1
+  index: -1
+pig1
+  rotate: false
+  xy: 906, 368
+  size: 395, 409
+  orig: 409, 409
+  offset: 4, 0
+  index: -1
+pig2
+  rotate: false
+  xy: 1371, 58
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 816, 50
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 474, 163
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+图层 302
+  rotate: true
+  xy: 1343, 117
+  size: 85, 65
+  orig: 87, 67
+  offset: 1, 1
+  index: -1

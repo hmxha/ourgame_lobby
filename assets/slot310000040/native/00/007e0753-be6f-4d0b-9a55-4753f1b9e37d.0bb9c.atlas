@@ -1,0 +1,34 @@
+
+eff_propfall_lajiao.png
+size: 136,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+led_art_1
+  rotate: false
+  xy: 2, 52
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+led_art_2
+  rotate: false
+  xy: 85, 10
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+led_art_3
+  rotate: false
+  xy: 72, 53
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+led_art_4
+  rotate: true
+  xy: 2, 2
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1

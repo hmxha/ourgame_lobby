@@ -1,0 +1,48 @@
+
+eff_zhuanpan_spin.png
+size: 500,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan009
+  rotate: false
+  xy: 2, 228
+  size: 275, 275
+  orig: 281, 281
+  offset: 3, 3
+  index: -1
+jdt_zp_spin
+  rotate: false
+  xy: 223, 2
+  size: 143, 59
+  orig: 144, 62
+  offset: 1, 2
+  index: -1
+light
+  rotate: false
+  xy: 223, 204
+  size: 22, 22
+  orig: 27, 27
+  offset: 2, 3
+  index: -1
+转盘拆分/jdt_zp_spin_di1
+  rotate: false
+  xy: 279, 284
+  size: 219, 219
+  orig: 224, 224
+  offset: 2, 2
+  index: -1
+转盘拆分/jdt_zp_spin_di2
+  rotate: false
+  xy: 279, 63
+  size: 219, 219
+  orig: 224, 224
+  offset: 2, 2
+  index: -1
+转盘拆分/jdt_zp_spin_di3
+  rotate: false
+  xy: 2, 7
+  size: 219, 219
+  orig: 224, 224
+  offset: 2, 2
+  index: -1

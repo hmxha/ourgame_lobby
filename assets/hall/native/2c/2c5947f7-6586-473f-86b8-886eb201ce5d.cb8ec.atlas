@@ -1,0 +1,104 @@
+
+eff_hotslot.png
+size: 420,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: true
+  xy: 2, 90
+  size: 445, 213
+  orig: 879, 415
+  offset: 217, 101
+  index: -1
+lizi/lizi_000
+  rotate: true
+  xy: 260, 317
+  size: 218, 40
+  orig: 240, 63
+  offset: 9, 10
+  index: -1
+lizi/lizi_001
+  rotate: true
+  xy: 258, 96
+  size: 219, 40
+  orig: 240, 63
+  offset: 9, 10
+  index: -1
+lizi/lizi_002
+  rotate: true
+  xy: 300, 96
+  size: 219, 40
+  orig: 240, 63
+  offset: 9, 9
+  index: -1
+lizi/lizi_003
+  rotate: true
+  xy: 217, 317
+  size: 218, 41
+  orig: 240, 63
+  offset: 8, 9
+  index: -1
+lizi/lizi_004
+  rotate: false
+  xy: 75, 2
+  size: 216, 42
+  orig: 240, 63
+  offset: 11, 10
+  index: -1
+lizi/lizi_005
+  rotate: true
+  xy: 342, 97
+  size: 219, 37
+  orig: 240, 63
+  offset: 8, 10
+  index: -1
+lizi/lizi_006
+  rotate: true
+  xy: 381, 98
+  size: 216, 35
+  orig: 240, 63
+  offset: 12, 11
+  index: -1
+lizi/lizi_007
+  rotate: true
+  xy: 341, 318
+  size: 217, 38
+  orig: 240, 63
+  offset: 12, 9
+  index: -1
+lizi/lizi_008
+  rotate: true
+  xy: 302, 317
+  size: 218, 37
+  orig: 240, 63
+  offset: 11, 10
+  index: -1
+lizi/lizi_009
+  rotate: true
+  xy: 381, 316
+  size: 219, 36
+  orig: 240, 63
+  offset: 11, 11
+  index: -1
+lizi/lizi_010
+  rotate: true
+  xy: 217, 94
+  size: 221, 39
+  orig: 240, 63
+  offset: 10, 10
+  index: -1
+lizi/lizi_011
+  rotate: false
+  xy: 75, 46
+  size: 221, 42
+  orig: 240, 63
+  offset: 10, 9
+  index: -1
+star
+  rotate: true
+  xy: 2, 19
+  size: 69, 71
+  orig: 84, 85
+  offset: 7, 8
+  index: -1

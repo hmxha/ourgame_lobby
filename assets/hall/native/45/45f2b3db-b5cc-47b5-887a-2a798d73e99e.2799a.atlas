@@ -1,0 +1,97 @@
+
+eff_biankuang_down.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang_down_02
+  rotate: true
+  xy: 133, 193
+  size: 23, 15
+  orig: 498, 118
+  offset: 0, 100
+  index: -1
+biankuang_down_03
+  rotate: false
+  xy: 124, 35
+  size: 72, 32
+  orig: 498, 118
+  offset: 0, 85
+  index: -1
+biankuang_down_04
+  rotate: false
+  xy: 1, 30
+  size: 121, 39
+  orig: 498, 118
+  offset: 0, 77
+  index: -1
+biankuang_down_05
+  rotate: false
+  xy: 127, 69
+  size: 148, 48
+  orig: 498, 118
+  offset: 18, 58
+  index: -1
+biankuang_down_06
+  rotate: false
+  xy: 1, 71
+  size: 124, 78
+  orig: 498, 118
+  offset: 68, 16
+  index: -1
+biankuang_down_07
+  rotate: true
+  xy: 161, 151
+  size: 124, 83
+  orig: 498, 118
+  offset: 117, 2
+  index: -1
+biankuang_down_08
+  rotate: false
+  xy: 1, 155
+  size: 130, 61
+  orig: 498, 118
+  offset: 162, 1
+  index: -1
+biankuang_down_09
+  rotate: true
+  xy: 246, 119
+  size: 156, 19
+  orig: 498, 118
+  offset: 187, 1
+  index: -1
+biankuang_down_10
+  rotate: false
+  xy: 1, 257
+  size: 158, 18
+  orig: 498, 118
+  offset: 236, 1
+  index: -1
+biankuang_down_11
+  rotate: false
+  xy: 1, 237
+  size: 157, 18
+  orig: 498, 118
+  offset: 287, 1
+  index: -1
+biankuang_down_12
+  rotate: false
+  xy: 1, 218
+  size: 153, 17
+  orig: 498, 118
+  offset: 338, 1
+  index: -1
+biankuang_down_13
+  rotate: false
+  xy: 127, 133
+  size: 106, 16
+  orig: 498, 118
+  offset: 389, 2
+  index: -1
+biankuang_down_14
+  rotate: false
+  xy: 198, 53
+  size: 52, 14
+  orig: 498, 118
+  offset: 442, 3
+  index: -1

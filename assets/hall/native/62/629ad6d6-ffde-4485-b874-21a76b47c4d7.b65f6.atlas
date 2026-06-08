@@ -1,0 +1,41 @@
+
+eff_xiaozhuanpan.png
+size: 524,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_xzp_hong02
+  rotate: false
+  xy: 349, 114
+  size: 107, 108
+  orig: 109, 110
+  offset: 1, 0
+  index: -1
+001_xzp_lv02
+  rotate: false
+  xy: 445, 36
+  size: 76, 76
+  orig: 78, 78
+  offset: 1, 1
+  index: -1
+001_xzp_zi02
+  rotate: false
+  xy: 349, 18
+  size: 94, 94
+  orig: 96, 97
+  offset: 1, 2
+  index: -1
+light
+  rotate: true
+  xy: 2, 2
+  size: 344, 345
+  orig: 400, 400
+  offset: 29, 26
+  index: -1
+xx
+  rotate: true
+  xy: 349, 224
+  size: 122, 120
+  orig: 128, 128
+  offset: 3, 4
+  index: -1

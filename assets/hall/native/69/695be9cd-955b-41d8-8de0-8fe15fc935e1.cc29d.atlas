@@ -1,0 +1,20 @@
+
+eff_tanchu.png
+size: 964,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_dt_dixialan_02
+  rotate: false
+  xy: 2, 2
+  size: 880, 105
+  orig: 890, 114
+  offset: 4, 4
+  index: -1
+菜单栏常态改
+  rotate: false
+  xy: 2, 109
+  size: 958, 248
+  orig: 958, 248
+  offset: 0, 0
+  index: -1

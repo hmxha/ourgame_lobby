@@ -1,0 +1,13 @@
+
+eff_light.png
+size: 100,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/star
+  rotate: false
+  xy: 2, 2
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1

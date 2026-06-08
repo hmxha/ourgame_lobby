@@ -1,0 +1,27 @@
+
+eff_lwh.png
+size: 364,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_yhxx_lihe
+  rotate: false
+  xy: 279, 54
+  size: 83, 95
+  orig: 85, 97
+  offset: 2, 1
+  index: -1
+gq
+  rotate: false
+  xy: 2, 2
+  size: 153, 147
+  orig: 160, 154
+  offset: 3, 3
+  index: -1
+xx
+  rotate: true
+  xy: 157, 27
+  size: 122, 120
+  orig: 128, 128
+  offset: 3, 4
+  index: -1

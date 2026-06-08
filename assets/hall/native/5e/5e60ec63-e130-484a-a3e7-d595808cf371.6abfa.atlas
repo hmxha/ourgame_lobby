@@ -1,0 +1,20 @@
+
+eff_zzgx.png
+size: 452,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_00
+  rotate: false
+  xy: 2, 248
+  size: 98, 98
+  orig: 128, 128
+  offset: 15, 15
+  index: -1
+light
+  rotate: true
+  xy: 102, 2
+  size: 344, 345
+  orig: 400, 400
+  offset: 29, 26
+  index: -1

@@ -1,0 +1,167 @@
+
+eff_zjm_zi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1/1_00
+  rotate: false
+  xy: 364, 221
+  size: 24, 32
+  orig: 62, 55
+  offset: 7, 21
+  index: -1
+d1/1_01
+  rotate: false
+  xy: 350, 136
+  size: 25, 28
+  orig: 62, 55
+  offset: 8, 25
+  index: -1
+d1/1_02
+  rotate: false
+  xy: 258, 42
+  size: 52, 55
+  orig: 62, 55
+  offset: 8, 0
+  index: -1
+d1/1_03
+  rotate: true
+  xy: 270, 102
+  size: 54, 52
+  orig: 62, 55
+  offset: 7, 0
+  index: -1
+d1/1_04
+  rotate: false
+  xy: 292, 165
+  size: 49, 32
+  orig: 62, 55
+  offset: 8, 0
+  index: -1
+d1/1_05
+  rotate: true
+  xy: 343, 166
+  size: 32, 28
+  orig: 62, 55
+  offset: 12, 3
+  index: -1
+d1/1_06
+  rotate: true
+  xy: 292, 199
+  size: 54, 48
+  orig: 62, 55
+  offset: 8, 0
+  index: -1
+d1/1_07
+  rotate: true
+  xy: 336, 3
+  size: 41, 40
+  orig: 62, 55
+  offset: 8, 0
+  index: -1
+d1/1_08
+  rotate: false
+  xy: 258, 3
+  size: 31, 37
+  orig: 62, 55
+  offset: 9, 0
+  index: -1
+d1/1_09
+  rotate: true
+  xy: 312, 46
+  size: 54, 52
+  orig: 62, 55
+  offset: 8, 0
+  index: -1
+d1/1_10
+  rotate: true
+  xy: 60, 14
+  size: 58, 44
+  orig: 62, 55
+  offset: 4, 8
+  index: -1
+d1/1_11
+  rotate: true
+  xy: 291, 4
+  size: 36, 43
+  orig: 62, 55
+  offset: 26, 12
+  index: -1
+d1/1_12
+  rotate: true
+  xy: 213, 99
+  size: 57, 55
+  orig: 62, 55
+  offset: 4, 0
+  index: -1
+d1/1_13
+  rotate: true
+  xy: 324, 114
+  size: 49, 24
+  orig: 62, 55
+  offset: 7, 2
+  index: -1
+d1/1_14
+  rotate: true
+  xy: 350, 112
+  size: 22, 21
+  orig: 62, 55
+  offset: 8, 2
+  index: -1
+lightning1
+  rotate: true
+  xy: 342, 200
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+lightning2
+  rotate: true
+  xy: 2, 2
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+lightning3
+  rotate: true
+  xy: 106, 14
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+lightning4
+  rotate: true
+  xy: 25, 12
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+lightning5
+  rotate: false
+  xy: 147, 2
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+lightning6
+  rotate: true
+  xy: 213, 158
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+logo
+  rotate: true
+  xy: 113, 78
+  size: 175, 98
+  orig: 254, 165
+  offset: 40, 31
+  index: -1
+logo_di
+  rotate: true
+  xy: 2, 74
+  size: 179, 109
+  orig: 254, 165
+  offset: 38, 26
+  index: -1

@@ -1,0 +1,20 @@
+
+yq_dianji.png
+size: 348,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_ty_yq
+  rotate: false
+  xy: 177, 2
+  size: 169, 118
+  orig: 171, 120
+  offset: 1, 1
+  index: -1
+1111_000
+  rotate: false
+  xy: 2, 4
+  size: 173, 116
+  orig: 180, 130
+  offset: 0, 13
+  index: -1

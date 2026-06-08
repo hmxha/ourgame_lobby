@@ -1,0 +1,157 @@
+
+eff_zhuanpan_lizi.png
+size: 1008,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00001
+  rotate: true
+  xy: 364, 124
+  size: 241, 233
+  orig: 640, 360
+  offset: 200, 68
+  index: -1
+lizi/lizi_00002
+  rotate: true
+  xy: 364, 367
+  size: 274, 266
+  orig: 640, 360
+  offset: 183, 53
+  index: -1
+lizi/lizi_00005
+  rotate: true
+  xy: 632, 2
+  size: 373, 351
+  orig: 640, 360
+  offset: 135, 6
+  index: -1
+lizi/lizi_00014
+  rotate: true
+  xy: 2, 32
+  size: 609, 360
+  orig: 640, 360
+  offset: 6, 0
+  index: -1
+lizi/lizi_00015
+  rotate: true
+  xy: 643, 377
+  size: 626, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+lizi/lizi_00016
+  rotate: false
+  xy: 2, 643
+  size: 639, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+
+eff_zhuanpan_lizi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00000
+  rotate: false
+  xy: 311, 100
+  size: 208, 200
+  orig: 640, 360
+  offset: 216, 84
+  index: -1
+lizi/lizi_00003
+  rotate: false
+  xy: 2, 2
+  size: 307, 298
+  orig: 640, 360
+  offset: 167, 38
+  index: -1
+lizi/lizi_00007
+  rotate: false
+  xy: 562, 79
+  size: 442, 360
+  orig: 640, 360
+  offset: 101, 0
+  index: -1
+lizi/lizi_00012
+  rotate: false
+  xy: 2, 302
+  size: 558, 360
+  orig: 640, 360
+  offset: 32, 0
+  index: -1
+lizi/lizi_00013
+  rotate: true
+  xy: 606, 441
+  size: 580, 360
+  orig: 640, 360
+  offset: 22, 0
+  index: -1
+lizi/lizi_00017
+  rotate: false
+  xy: 2, 664
+  size: 602, 357
+  orig: 640, 360
+  offset: 29, 3
+  index: -1
+
+eff_zhuanpan_lizi3.png
+size: 912,912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00009
+  rotate: false
+  xy: 364, 2
+  size: 504, 360
+  orig: 640, 360
+  offset: 65, 0
+  index: -1
+lizi/lizi_00010
+  rotate: true
+  xy: 2, 22
+  size: 526, 360
+  orig: 640, 360
+  offset: 50, 0
+  index: -1
+lizi/lizi_00011
+  rotate: false
+  xy: 2, 550
+  size: 546, 360
+  orig: 640, 360
+  offset: 40, 0
+  index: -1
+lizi/lizi_00018
+  rotate: true
+  xy: 550, 364
+  size: 546, 360
+  orig: 640, 360
+  offset: 16, 0
+  index: -1
+
+eff_zhuanpan_lizi4.png
+size: 744,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00004
+  rotate: true
+  xy: 411, 34
+  size: 341, 328
+  orig: 640, 360
+  offset: 150, 22
+  index: -1
+lizi/lizi_00006
+  rotate: false
+  xy: 2, 15
+  size: 407, 360
+  orig: 640, 360
+  offset: 118, 0
+  index: -1
+lizi/lizi_00008
+  rotate: false
+  xy: 2, 377
+  size: 475, 360
+  orig: 640, 360
+  offset: 84, 0
+  index: -1

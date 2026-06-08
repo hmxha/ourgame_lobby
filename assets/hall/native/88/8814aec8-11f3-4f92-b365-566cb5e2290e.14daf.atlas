@@ -1,0 +1,13 @@
+
+eff_jbgx.png
+size: 280,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_00
+  rotate: false
+  xy: 2, 2
+  size: 273, 264
+  orig: 300, 289
+  offset: 11, 15
+  index: -1

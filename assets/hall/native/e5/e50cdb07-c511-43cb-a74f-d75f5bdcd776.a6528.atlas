@@ -1,0 +1,27 @@
+
+eff_zhuanpan_zhizhen.png
+size: 200,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+转盘拆分/jdt_zp_zz1
+  rotate: false
+  xy: 2, 2
+  size: 64, 90
+  orig: 68, 94
+  offset: 2, 2
+  index: -1
+转盘拆分/jdt_zp_zz2
+  rotate: false
+  xy: 68, 2
+  size: 64, 90
+  orig: 68, 94
+  offset: 2, 2
+  index: -1
+转盘拆分/jdt_zp_zz3
+  rotate: false
+  xy: 134, 2
+  size: 64, 90
+  orig: 68, 94
+  offset: 2, 2
+  index: -1

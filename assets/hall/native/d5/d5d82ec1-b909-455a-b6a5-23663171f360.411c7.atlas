@@ -1,0 +1,146 @@
+
+eff_spin.png
+size: 1592,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPIN
+  rotate: false
+  xy: 2, 4
+  size: 158, 39
+  orig: 158, 39
+  offset: 0, 0
+  index: -1
+anniu_light
+  rotate: true
+  xy: 258, 55
+  size: 345, 146
+  orig: 700, 248
+  offset: 178, 63
+  index: -1
+spin_guangxiao/spin_guangxiao_000
+  rotate: true
+  xy: 768, 96
+  size: 304, 89
+  orig: 700, 248
+  offset: 198, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_001
+  rotate: true
+  xy: 1041, 105
+  size: 295, 89
+  orig: 700, 248
+  offset: 200, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_002
+  rotate: false
+  xy: 1322, 27
+  size: 266, 89
+  orig: 700, 248
+  offset: 217, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_003
+  rotate: true
+  xy: 1223, 118
+  size: 282, 89
+  orig: 700, 248
+  offset: 214, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_004
+  rotate: true
+  xy: 950, 101
+  size: 299, 89
+  orig: 700, 248
+  offset: 204, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_005
+  rotate: true
+  xy: 677, 95
+  size: 305, 89
+  orig: 700, 248
+  offset: 199, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_006
+  rotate: true
+  xy: 406, 93
+  size: 307, 88
+  orig: 700, 248
+  offset: 198, 99
+  index: -1
+spin_guangxiao/spin_guangxiao_007
+  rotate: false
+  xy: 406, 2
+  size: 306, 89
+  orig: 700, 248
+  offset: 198, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_008
+  rotate: true
+  xy: 859, 96
+  size: 304, 89
+  orig: 700, 248
+  offset: 198, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_009
+  rotate: true
+  xy: 1132, 105
+  size: 295, 89
+  orig: 700, 248
+  offset: 200, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_010
+  rotate: true
+  xy: 1405, 134
+  size: 266, 89
+  orig: 700, 248
+  offset: 217, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_011
+  rotate: true
+  xy: 1314, 118
+  size: 282, 89
+  orig: 700, 248
+  offset: 214, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_012
+  rotate: false
+  xy: 1021, 10
+  size: 299, 89
+  orig: 700, 248
+  offset: 204, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_013
+  rotate: false
+  xy: 714, 4
+  size: 305, 89
+  orig: 700, 248
+  offset: 199, 98
+  index: -1
+spin_guangxiao/spin_guangxiao_014
+  rotate: true
+  xy: 496, 93
+  size: 307, 88
+  orig: 700, 248
+  offset: 198, 99
+  index: -1
+spin_guangxiao/spin_guangxiao_015
+  rotate: true
+  xy: 586, 94
+  size: 306, 89
+  orig: 700, 248
+  offset: 198, 98
+  index: -1
+拉霸机切图/置灰按钮
+  rotate: true
+  xy: 2, 45
+  size: 355, 126
+  orig: 355, 126
+  offset: 0, 0
+  index: -1
+按钮
+  rotate: true
+  xy: 130, 45
+  size: 355, 126
+  orig: 355, 126
+  offset: 0, 0
+  index: -1
