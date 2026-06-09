@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Epic of Vegas</title>
+  <title>Blaze Games</title>
 
-  <link rel="icon" href="favicon.41448.png" type="image/png">
+  <link rel="icon" href="favicon.66569.png" type="image/png">
 
   <!--http://www.html5rocks.com/en/mobile/mobifying/-->
   <meta name="viewport"
@@ -38,16 +38,6 @@
 
   <link rel="stylesheet" type="text/css" href="style.572a7.css" />
 
-  <!-- TT Pixel Code -->
-  <script>
-    !function (w, d, t) {
-    w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
-
-    ttq.load('D8GJDHBC77UANKFSAD50');
-    ttq.page();
-    }(window, document, 'ttq');
-  </script>
-  <!-- End TT Pixel Code -->
 
   <!-- VConsole -->
   <!-- <script src="vconsole.min.js"></script>
@@ -82,42 +72,6 @@
       }, { passive: false })
     };
   </script>
-
-  <script>
-    // function fetchLocal(url) {
-    //   // 不完善接口，用了物理引擎会出现Error4
-    //   return new Promise(function (resolve, reject) {
-    //     var xhr = new XMLHttpRequest
-    //     xhr.onload = function () {
-    //       resolve(new Response(xhr.responseText, { status: 200 }))
-    //     }
-    //     xhr.onerror = function () {
-    //       reject(new TypeError("Local request failed"))
-    //     }
-    //     xhr.open("GET", url)
-    //     xhr.send(null)
-    //   })
-    // }
-    // window.fetch = fetchLocal;
-
-    // function fetchLocal(url) {
-    //   return new Promise(function (resolve, reject) {
-    //     var xhr = new XMLHttpRequest
-    //     xhr.onload = function () {
-    //       resolve(new Response(xhr.response, {
-    //         status: 200
-    //       }))
-    //     }
-    //     xhr.onerror = function () {
-    //       reject(new TypeError("Local request failed"))
-    //     }
-    //     xhr.open("GET", url)
-    //     xhr.responseType = "arraybuffer";
-    //     xhr.send(null)
-    //   })
-    // };
-    // window.fetch = fetchLocal;
-  </script>
 </head>
 
 <style>
@@ -144,10 +98,10 @@
   <script src="src/system.bundle.543e6.js" charset="utf-8"></script>
 
   <!-- Import map -->
-  <script src="src/import-map.37fd8.json" type="systemjs-importmap" charset="utf-8"></script>
+  <script src="src/import-map.957c2.json" type="systemjs-importmap" charset="utf-8"></script>
 
   <script>
-    System.import("./index.ef0fd.js").catch(function (err) {
+    System.import("./index.5dbf6.js").catch(function (err) {
       console.error(err);
     });
   </script>
@@ -159,26 +113,21 @@
   </div>
 
   <!-- Add your SVG animation below the canvas -->
-  <div id="frames">
-    <!-- <svg id="defSvg" style="display: none" width="200" height="120" viewBox="0 0 200 120">
-      <circle cx="60" cy="110" r="5" fill="#ffa502">
-        <animate attributeName="r" values="5;7.5;5" dur="1.5s" begin="0s" repeatCount="indefinite" />
-        <animate attributeName="fill" values="orange; #ffa502; #ff6348; orange" dur="1.5s" begin="0s"
-          repeatCount="indefinite" />
-      </circle>
-      <circle cx="100" cy="110" r="5" fill="#ffa502">
-        <animate attributeName="r" values="5;7.5;5" dur="1.5s" begin="0.2s" repeatCount="indefinite" />
-        <animate attributeName="fill" values="orange; #ffa502; #ff6348; orange" dur="1.5s" begin="0s"
-          repeatCount="indefinite" />
-      </circle>
-      <circle cx="140" cy="110" r="5" fill="#ffa502">
-        <animate attributeName="r" values="5;7.5;5" dur="1.5s" begin="0.4s" repeatCount="indefinite" />
-        <animate attributeName="fill" values="orange; #ffa502; #ff6348; orange" dur="1.5s" begin="0s"
-          repeatCount="indefinite" />
-      </circle>
-    </svg> -->
-    <!-- <img id="logoSvg" src="./logo.179a1.gif" alt="LOGO" /> -->
-    <div class="loader-5"></div>
+  <div id="frames" class="framesBox">
+    <img src="light.0ec08.png" class="framesBg">
+    <img src="LOGO_2.66569.png" class="logo">
+    <img src="LOGO_1.0c055.png" class="logoTxt">
+    <img src="ditu.baa74.png" class="prog-bg">
+    <!-- <img src="jiazai .png" class="prog-bg"> -->
+    <div class="progBox" style="overflow: hidden;">
+      <img src="jiazai.435a5.png" class="prog-fill">
+    </div>
+    <div class="progBox">
+      <img src="guang.0a0dc.png" class="prog-icon">
+    </div>
+    <div class="prog-txt">
+      <span id="prog-text">LOADING 0%</span>
+    </div>
   </div>
 
   <script type="text/javascript">
@@ -257,6 +206,45 @@
         // document.title = gameName;
       }
     })();
+
+    /**
+     * 数字滚动函数
+     * @param {HTMLElement} element 目标元素
+     * @param {number} start 起始数字
+     * @param {number} end 结束数字
+     * @param {number} duration 持续时间（毫秒）
+     */
+    function animateNumber(element, start, end, duration) {
+      const startTime = performance.now();
+
+      // 标准的 ease-in-out 算法
+      const easeInOut = (t) => {
+        return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+      };
+
+      function update(currentTime) {
+        // 计算当前流逝时间占比 (0 到 1)
+        let elapsed = (currentTime - startTime) / duration;
+        if (elapsed > 1) elapsed = 1;
+
+        // 应用缓动函数
+        const progress = easeInOut(elapsed);
+
+        // 计算当前数字并渲染
+        const currentNumber = Math.floor(start + (end - start) * progress);
+        element.innerText = 'LOADING ' + currentNumber + '%'; // 加上百分号
+
+        if (elapsed < 1) {
+          requestAnimationFrame(update);
+        }
+      }
+
+      requestAnimationFrame(update);
+    }
+    // 改变进度
+    const myText = document.getElementById('prog-text');
+    const randomVal = Math.floor(Math.random() * (99 - 96 + 1)) + 96;
+    animateNumber(myText, 0, randomVal, 2000); // 1秒从0变到100
   </script>
 
 </body>
@@ -275,58 +263,218 @@
         align-items: center; */
         background-color: #1a1a2e;
     }
-
-    /* loader-5 核心样式 */
-    .loader-5 {
-        animation: rotate5 2s infinite;
-        height: calc(50px * var(--scale));
-        width: calc(50px * var(--scale));
+    .framesBox{
+      position: relative;
     }
-    .loader-5::before,
-    .loader-5::after {
-        border-radius: 50%;
-        content: "";
-        display: block;
-        height: calc(20px * var(--scale));
-        width: calc(20px * var(--scale));
+    .framesBg{
+      width: 100vw;
+      max-width: 500px;
+      min-width: 400px;
+      height: auto;
     }
-    .loader-5::before {
-        animation: ball1 2s infinite;
-        background-color: rgb(255 255 255 / 16%);
-        box-shadow: calc(30px * var(--scale)) 0 0 #f031ed;
-        margin-bottom: calc(10px * var(--scale));
+    .logo{
+      width: 60vw;
+      max-width: 300px;
+      min-width: 100px;
+      height: auto;
+      position: absolute;
+      top: 45%;
+      left: 48%;
+      transform: translate(-50%, -50%);
     }
-    .loader-5::after {
-        animation: ball2 2s infinite;
-        background-color: #f031ed;
-        box-shadow: calc(30px * var(--scale)) 0 0 rgb(255 255 255 / 16%);
+    .logoTxt{
+      width: 60vw;
+      max-width: 300px;
+      min-width: 100px;
+      height: auto;
+      position: absolute;
+      top: 78%;
+      left: 50%;
+      transform: translate(-50%, -50%);
     }
-
-    /* 动画关键帧：整体旋转+缩放 */
-    @keyframes rotate5 {
-        0%   { transform: rotate(0deg)   scale(calc(0.8 * var(--scale))); }
-        50%  { transform: rotate(360deg) scale(calc(1.2 * var(--scale))); }
-        100% { transform: rotate(720deg) scale(calc(0.8 * var(--scale))); }
+    .prog-bg{
+      width: 86vw;
+      height: auto;
+      min-height: 8px;
+      max-width: 600px;
+      min-width: 100px;
+      height: auto;
+      position: absolute;
+      top: 120%;
+      left: 50%;
+      transform: translate(-50%, -50%);
     }
-
-    /* 小球1动画 */
-    @keyframes ball1 {
-        0%   { box-shadow: calc(30px * var(--scale)) 0 0 #f031ed; }
-        50%  { box-shadow: 0 0 0 #f031ed;
-              margin-bottom: 0;
-              transform: translate(calc(15px * var(--scale)), calc(15px * var(--scale))); }
-        100% { box-shadow: calc(30px * var(--scale)) 0 0 #f031ed;
-              margin-bottom: calc(10px * var(--scale)); }
+    .progBox{
+      width: 86vw;
+      height: auto;
+      min-height: 8px;
+      max-width: 600px;
+      min-width: 100px;
+      height: auto;
+      position: absolute;
+      top: 120%;
+      left: 50%;
+      transform: translate(-50%, -50%);
     }
-
-    /* 小球2动画 */
-    @keyframes ball2 {
-        0%   { box-shadow: calc(30px * var(--scale)) 0 0 rgb(255 255 255 / 32%); }
-        50%  { box-shadow: 0 0 0 rgb(255 255 255 / 32%);
-              margin-top: calc(-20px * var(--scale));
-              transform: translate(calc(15px * var(--scale)), calc(15px * var(--scale))); }
-        100% { box-shadow: calc(30px * var(--scale)) 0 0 rgb(255 255 255 / 32%);
-              margin-top: 0; }
+    .prog-fill{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 50%;
+      height: 100%;
+      /* transition: width 1s ease-in-out; */
+      animation: fillProgress 2s ease-in-out forwards;
+    }
+    @keyframes fillProgress {
+      from {
+        width: 0%;
+      }
+      to {
+        width: 99%;
+      }
+    }
+    @keyframes iconRun {
+      from { 
+        /* 从左侧 0% 开始，但往左挪动 10px 避开边缘 */
+        left: calc(0% - 36px); 
+      }
+      to { 
+        /* 移动到 100% 处，但往回缩 10px 保持视觉平衡 */
+        left: calc(99% - 36px); 
+      }
+    }
+    .prog-icon{
+      position: absolute;
+      top: 50%;
+      left: calc(0% - 36px);           /* 初始位置 */
+      transform: translate(-50%, -50%); /* 居中对齐边缘 */
+      width: 161px;      /* 光标尺寸 */
+      height: auto;
+      animation: iconRun 2s ease-in-out forwards;
+    }
+    .prog-txt{
+      width: 86vw;
+      height: auto;
+      min-height: 8px;
+      max-width: 300px;
+      min-width: 100px;
+      height: auto;
+      position: absolute;
+      top: 130%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-weight: bold;
+      font-size: 4vw;
+      font-size: clamp(20px, 4vw, 34px);
+    }
+    
+    @media screen and (max-width: 768px) {
+      .framesBox{
+        position: relative;
+      }
+      .framesBg{
+        width: 100vw;
+        max-width: 1000px;
+        min-width: 400px;
+        height: auto;
+      }
+      .logo{
+        width: 60vw;
+        max-width: 600px;
+        min-width: 200px;
+        height: auto;
+        position: absolute;
+        top: 45%;
+        left: 48%;
+        transform: translate(-50%, -50%);
+      }
+      .logoTxt{
+        width: 60vw;
+        max-width: 600px;
+        min-width: 200px;
+        height: auto;
+        position: absolute;
+        top: 78%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .prog-bg{
+        width: 86vw;
+        height: auto;
+        min-height: 8px;
+        max-width: 1200px;
+        min-width: 300px;
+        height: auto;
+        position: absolute;
+        top: 120%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .progBox{
+        width: 86vw;
+        height: auto;
+        min-height: 8px;
+        max-width: 1200px;
+        min-width: 300px;
+        height: auto;
+        position: absolute;
+        top: 120%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .prog-fill{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 50%;
+        height: 100%;
+        /* transition: width 1s ease-in-out; */
+        animation: fillProgress 2s ease-in-out forwards;
+      }
+      @keyframes fillProgress {
+        from {
+          width: 0%;
+        }
+        to {
+          width: 99%;
+        }
+      }
+      @keyframes iconRun {
+        from { 
+          /* 从左侧 0% 开始，但往左挪动 10px 避开边缘 */
+          left: calc(0% - 36px); 
+        }
+        to { 
+          /* 移动到 100% 处，但往回缩 10px 保持视觉平衡 */
+          left: calc(99% - 36px); 
+        }
+      }
+      .prog-icon{
+        position: absolute;
+        top: 50%;
+        left: calc(0% - 36px);           /* 初始位置 */
+        transform: translate(-50%, -50%); /* 居中对齐边缘 */
+        width: 161px;      /* 光标尺寸 */
+        height: auto;
+        animation: iconRun 2s ease-in-out forwards;
+      }
+      .prog-txt{
+        width: 86vw;
+        height: auto;
+        min-height: 8px;
+        max-width: 600px;
+        min-width: 300px;
+        height: auto;
+        position: absolute;
+        top: 130%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-weight: bold;
+        font-size: 4vw;
+        font-size: clamp(20px, 4vw, 34px);
+      }
     }
 </style>
 </html>
