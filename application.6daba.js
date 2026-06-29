@@ -1,5 +1,5 @@
 window.hallVersion = "1.0.4";
-window.gameCfgUrl = "https://s3.ogames.cfd/ourgame";
+window.gameCfgUrl = "https://s3cdn.spinzine.com/ourgame";
 System.register([], function (_export, _context) {
   "use strict";
 
