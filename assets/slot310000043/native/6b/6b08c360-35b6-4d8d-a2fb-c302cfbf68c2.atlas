@@ -1,0 +1,328 @@
+
+NG_box_shouji.png
+size: 1988,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bao/bao_00
+  rotate: false
+  xy: 1634, 22
+  size: 104, 104
+  orig: 243, 211
+  offset: 70, 56
+  index: -1
+images/bao/bao_02
+  rotate: false
+  xy: 1488, 95
+  size: 142, 142
+  orig: 243, 211
+  offset: 51, 37
+  index: -1
+images/bao/bao_03
+  rotate: true
+  xy: 1301, 232
+  size: 161, 160
+  orig: 243, 211
+  offset: 41, 28
+  index: -1
+images/bao/bao_04
+  rotate: true
+  xy: 1119, 212
+  size: 181, 180
+  orig: 243, 211
+  offset: 31, 18
+  index: -1
+images/bao/bao_06
+  rotate: true
+  xy: 215, 174
+  size: 219, 211
+  orig: 243, 211
+  offset: 12, 0
+  index: -1
+images/bao/bao_07
+  rotate: true
+  xy: 2, 155
+  size: 238, 211
+  orig: 243, 211
+  offset: 3, 0
+  index: -1
+images/bao/bao_08
+  rotate: false
+  xy: 1632, 128
+  size: 117, 124
+  orig: 243, 211
+  offset: 59, 47
+  index: -1
+images/bao/bao_10
+  rotate: false
+  xy: 1608, 254
+  size: 135, 139
+  orig: 243, 211
+  offset: 49, 40
+  index: -1
+images/bao/bao_11
+  rotate: false
+  xy: 165, 6
+  size: 136, 147
+  orig: 243, 211
+  offset: 45, 37
+  index: -1
+images/bao/bao_12
+  rotate: false
+  xy: 1463, 239
+  size: 143, 154
+  orig: 243, 211
+  offset: 40, 33
+  index: -1
+images/bao/bao_13
+  rotate: true
+  xy: 2, 4
+  size: 149, 161
+  orig: 243, 211
+  offset: 36, 30
+  index: -1
+images/bao/bao_14
+  rotate: false
+  xy: 303, 5
+  size: 155, 167
+  orig: 243, 211
+  offset: 32, 28
+  index: -1
+images/bao/bao_15
+  rotate: false
+  xy: 1165, 37
+  size: 161, 173
+  orig: 243, 211
+  offset: 28, 25
+  index: -1
+images/bao/bao_17
+  rotate: false
+  xy: 989, 13
+  size: 174, 185
+  orig: 243, 211
+  offset: 21, 20
+  index: -1
+images/bao/bao_18
+  rotate: true
+  xy: 460, 2
+  size: 181, 191
+  orig: 243, 211
+  offset: 18, 17
+  index: -1
+images/bao/bao_19
+  rotate: true
+  xy: 792, 6
+  size: 187, 195
+  orig: 243, 211
+  offset: 15, 16
+  index: -1
+images/bao/bao_20
+  rotate: false
+  xy: 785, 195
+  size: 192, 198
+  orig: 243, 211
+  offset: 12, 13
+  index: -1
+images/bao/bao_21
+  rotate: false
+  xy: 586, 194
+  size: 197, 199
+  orig: 243, 211
+  offset: 9, 12
+  index: -1
+images/bao/bao_23
+  rotate: true
+  xy: 428, 185
+  size: 208, 156
+  orig: 243, 211
+  offset: 3, 8
+  index: -1
+images/bao/bao_24
+  rotate: true
+  xy: 653, 3
+  size: 189, 137
+  orig: 243, 211
+  offset: 24, 7
+  index: -1
+images/bao/bao_25
+  rotate: true
+  xy: 979, 200
+  size: 193, 138
+  orig: 243, 211
+  offset: 22, 5
+  index: -1
+images/g4
+  rotate: false
+  xy: 1403, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/j3_00
+  rotate: true
+  xy: 1526, 2
+  size: 91, 54
+  orig: 99, 54
+  offset: 6, 0
+  index: -1
+images/j3_01
+  rotate: true
+  xy: 1740, 39
+  size: 87, 52
+  orig: 99, 54
+  offset: 5, 1
+  index: -1
+images/j3_02
+  rotate: true
+  xy: 1582, 3
+  size: 90, 50
+  orig: 99, 54
+  offset: 5, 2
+  index: -1
+images/j3_03
+  rotate: true
+  xy: 1745, 311
+  size: 82, 47
+  orig: 99, 54
+  offset: 9, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_01
+  rotate: false
+  xy: 1165, 4
+  size: 31, 31
+  orig: 100, 87
+  offset: 32, 28
+  index: -1
+images/liekai_lizi/liekai_lizi_02
+  rotate: true
+  xy: 1751, 135
+  size: 40, 39
+  orig: 100, 87
+  offset: 26, 24
+  index: -1
+images/liekai_lizi/liekai_lizi_03
+  rotate: true
+  xy: 1924, 61
+  size: 50, 51
+  orig: 100, 87
+  offset: 22, 17
+  index: -1
+images/liekai_lizi/liekai_lizi_04
+  rotate: true
+  xy: 1859, 7
+  size: 54, 63
+  orig: 100, 87
+  offset: 18, 10
+  index: -1
+images/liekai_lizi/liekai_lizi_05
+  rotate: true
+  xy: 1810, 258
+  size: 57, 71
+  orig: 100, 87
+  offset: 19, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_06
+  rotate: true
+  xy: 1890, 113
+  size: 63, 71
+  orig: 100, 87
+  offset: 17, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_07
+  rotate: true
+  xy: 1794, 63
+  size: 63, 71
+  orig: 100, 87
+  offset: 17, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_08
+  rotate: true
+  xy: 1891, 178
+  size: 63, 72
+  orig: 100, 87
+  offset: 17, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_09
+  rotate: true
+  xy: 1816, 128
+  size: 63, 72
+  orig: 100, 87
+  offset: 17, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_10
+  rotate: true
+  xy: 1328, 6
+  size: 64, 73
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_11
+  rotate: true
+  xy: 1816, 193
+  size: 63, 73
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_12
+  rotate: false
+  xy: 1923, 319
+  size: 63, 74
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_13
+  rotate: false
+  xy: 1923, 243
+  size: 63, 74
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_14
+  rotate: false
+  xy: 1751, 177
+  size: 63, 75
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_15
+  rotate: false
+  xy: 1858, 318
+  size: 63, 75
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_16
+  rotate: false
+  xy: 1794, 317
+  size: 62, 76
+  orig: 100, 87
+  offset: 16, 3
+  index: -1
+images/liekai_lizi/liekai_lizi_17
+  rotate: false
+  xy: 1794, 5
+  size: 63, 56
+  orig: 100, 87
+  offset: 15, 7
+  index: -1
+images/liekai_lizi/liekai_lizi_18
+  rotate: false
+  xy: 1745, 254
+  size: 63, 55
+  orig: 100, 87
+  offset: 15, 7
+  index: -1
+images/liekai_lizi/liekai_lizi_19
+  rotate: true
+  xy: 1469, 6
+  size: 64, 55
+  orig: 100, 87
+  offset: 14, 7
+  index: -1
+images/x2
+  rotate: false
+  xy: 1328, 72
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
